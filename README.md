@@ -61,4 +61,4 @@ Aquí podrás explorar algunos de nuestros desarrollos:
 
 ---
 
-> 🧭 **GEBMIND** · Localizamos el área ideal para tu negocio.
+> **GEBMIND** · Localizamos la ubicación ideal para tu negocio.
